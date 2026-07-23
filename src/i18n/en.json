@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "TripMate"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password",
+    "resetPassword": "Reset Password",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "Home",
+    "recommendedDestinations": "Recommended Destinations",
+    "upcomingTrips": "Upcoming Trips",
+    "recentRecords": "Recent Records",
+    "noTrips": "No upcoming trips",
+    "noRecords": "No records yet"
+  },
+  "trip": {
+    "title": "Itinerary",
+    "create": "Create Itinerary",
+    "destination": "Destination",
+    "days": "Days",
+    "preferences": "Preferences",
+    "budget": "Budget",
+    "generate": "Generate"
+  },
+  "record": {
+    "title": "Travel Records",
+    "create": "Create Record",
+    "edit": "Edit",
+    "delete": "Delete",
+    "public": "Public",
+    "private": "Private",
+    "search": "Search..."
+  },
+  "profile": {
+    "title": "Profile",
+    "displayName": "Display Name",
+    "language": "Language"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  }
+}
